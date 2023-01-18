@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+form{
+    margin: 20px 20px 20px 20px;
+    padding: 60px;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
+h1{
+    text-decoration: none;
+    text-align: center;
+    background-color:#008CBA;
+    color: azure;
+    font-size: 35px;
+    padding: 40px;
+    border-radius: 70px;
+}
+input[type="text"]{
+    padding: 40px;
+    width: 100%;
+    padding: 12px;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+button{
+    height: 55px;
+    width: 100px;
+    background-color:#008CBA;
+    color:white;
+    font:bold;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+button:hover{
+    background-color:#4CAF50;
+}
+.del{
+    float: right;
+    background-color: red;
+    /* margin-right: 100px; */
+}
